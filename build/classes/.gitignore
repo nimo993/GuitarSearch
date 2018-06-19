@@ -1,0 +1,13 @@
+/beans.xml
+/dao/
+/model/
+/mysqlDao/
+/service/
+/servlet/
+/sqliteDao/
+/testEnum/
+/testService/
+/testSqliteDao/
+/testUtil/
+/util/
+/xmlDao/
